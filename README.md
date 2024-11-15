@@ -2,8 +2,8 @@
 
 > **Note:** Please disable CORS or allow this site
 
-![Preview](/docs/preview.jpg)
-![Figma Design](/docs/figma.png)
+![Preview](/docs/Preview.jpg)
+![Figma Design](/docs/Figma.png)
 
 Figma: [https://www.figma.com/design/3ULKlSAormU9zgkCuN5N9J/FeTask?node-id=0-1&t=ob8gBf5iMmVjJERF-1](https://www.figma.com/design/3ULKlSAormU9zgkCuN5N9J/FeTask?node-id=0-1&t=ob8gBf5iMmVjJERF-1)
 
